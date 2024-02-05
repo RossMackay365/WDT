@@ -2,11 +2,14 @@
 <html lang="en">
 
 <head>
- <style>
-  .workpls{
-  color: red; 
-  }
- </style>
+body {
+        background-color: linen;
+      }
+
+      h1 {
+        color: maroon;
+        margin-left: 40px;
+      }
 </head>
  
 <h1>does this work</h1>
