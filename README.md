@@ -4,8 +4,9 @@
 <h1>does this work</h1>
 
 <table>
- <tr colspan=2>
+ <tr>
   <td>Test1</td>
+  <td>Test2</td>
  </tr>
  <tr>
   <td>Value1</td>
