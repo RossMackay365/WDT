@@ -14,4 +14,11 @@
  </tr>
 </table>
 
+<form>
+ <label for="name">Your Name: </label><input type="text" name="name">
+ <input type="submit" value="Submit">
+</form>
+
+
+
 </html>
