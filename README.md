@@ -5,7 +5,8 @@
 
 <table>
  <tr>
-  <th colspan=2>Test1</th>
+  <td>Test1</td>
+  <td>Test2</td>
  </tr>
  <tr>
   <td>Value1</td>
