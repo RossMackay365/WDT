@@ -3,14 +3,9 @@
 
 <head>
  <style>
-  body {
-        background-color: linen;
-      }
-
-      h1 {
-        color: maroon;
-        margin-left: 40px;
-      }
+  .workpls{
+  color: red; 
+  }
  </style>
 </head>
  
