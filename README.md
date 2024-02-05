@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <title>Does this work?</title>
-</head>
+
+<h1>does this work</h1>
 
 </html>
