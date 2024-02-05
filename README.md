@@ -4,7 +4,7 @@
 <h1>does this work</h1>
 
 <table>
- <tr>
+ <tr colspan=2>
   <td>Test1</td>
  </tr>
  <tr>
